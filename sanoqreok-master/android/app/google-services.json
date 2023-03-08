@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452827287588",
+    "project_id": "sanoqreok",
+    "storage_bucket": "sanoqreok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452827287588:android:4f3164a431c462431088b1",
+        "android_client_info": {
+          "package_name": "com.example.sanoqreok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452827287588-i96n8666c0kfmnkln95ov4vo0ca905l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZPFlEmj5fRuSGWV6FxOovfXJkvSfggaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452827287588-i96n8666c0kfmnkln95ov4vo0ca905l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
