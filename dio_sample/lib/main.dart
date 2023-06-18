@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'MainScreen.dart';
+import 'package:get/get.dart';
+import 'Widgets/NavBar/NavBar.dart';
+
 
 
 void main() {
@@ -12,10 +14,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(),
-      home: const MainScreen(),
+      theme: ThemeData(backgroundColor: Colors.black),
+      home:  NavBar(),
     );
   }
 }
